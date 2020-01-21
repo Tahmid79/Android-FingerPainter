@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FingerPainter</string>
+    <item name="myFingerPainterViewID" type="id" />
+    <string name="title_activity_colour">Colour</string>
+    <string name="title_activity_brush">Brush</string>
+</resources>
